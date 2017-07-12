@@ -29,7 +29,7 @@
     "less": "^2.7.2"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
+    "chai": "^4.1.0",
     "chai-as-promised": "^6.0.0",
     "customize": "^2.0.1",
     "eslint": "^3.19.0",
